@@ -30,10 +30,10 @@ We are pleased to introduce the team members collaborating on this project:
 
 | Full Name | GitHub Account |
 | :---: | :---: |
-| **Hazem Shady Nasr** | [@HazemShady](https://github.com/HazemShady) |
+| **Mohamed Sobhi Ibrahim** | [@mohamedabofoul](https://github.com/mohamedabofoul) |
 | **Merna Elia Abdelmaboud** | [@mernaelia](https://github.com/mernaelia) |
 | **Mostafa Mohamed Elbohoty** | [@MostafaElbohoty97](https://github.com/MostafaElbohoty97) |
-| **Mohamed Sobhi Ibrahim** | [@mohamedabofoul](https://github.com/mohamedabofoul) |
+| **Hazem Shady Nasr** | [@HazemShady](https://github.com/HazemShady) |
 | **Injy Makarem Abd elmenaem** | [@injymakarem](https://github.com/injymakarem) |
 | **Ayatullah Ahmed Sallam** | [@AyatullahSallam](https://github.com/AyatullahSallam) |
 
